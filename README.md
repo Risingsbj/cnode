@@ -1,4 +1,5 @@
 # cnode
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vue project
+>>>>>>> 60c96997fa33415a06d5e547c41127f9902a578b
